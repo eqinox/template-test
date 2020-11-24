@@ -1,0 +1,5 @@
+Useful sites i used:
+https://fontawesome.com/
+https://cdnjs.com/libraries/font-awesome	<- the place where links are for fontawesome.com site
+
+https://css-tricks.com/favicons-next-to-external-links/
