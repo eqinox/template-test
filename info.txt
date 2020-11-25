@@ -1,5 +1,23 @@
 Useful sites i used:
+
+1. For the loader
+=======================
 https://fontawesome.com/
 https://cdnjs.com/libraries/font-awesome	<- the place where links are for fontawesome.com site
 
 https://css-tricks.com/favicons-next-to-external-links/
+
+http://www.heropatterns.com/    <- used as backgrounds
+
+https://fonts.google.com/   <- fonts
+
+# this will transform to div with class quote-container and id quote-container
+div.quote-container#quote-container
+
+http://forismatic.com/en/api
+
+https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/web-intent
+
+
+https://www.w3schools.com/howto/howto_css_loader.asp    <- loading animation
+
